@@ -6,14 +6,51 @@
     brew_taps:
     - caskroom/fonts
     brew_packages:
-    - git
     - zsh
+    - htop
+    - tmux
     - vim
+    - irssi
+    - ack
     - the_silver_searcher
     - ctags
     - reattach-to-user-namespace
-    - tmux
+    - ncdu
+    - wget
+    - aria2
+    - nodejs
+    - ansible
+    - parallel
+    - p7zip
+    - git
+    - pwgen
     cask_packages:
     - font-inconsolata-for-powerline
     - iterm2
     - macvim
+    - dropbox
+    - inkscape
+    - cord
+    - dia
+    - diashapes
+    - filezilla
+    - firefox
+    - freemind
+    - gimp
+    - google-chrome
+    - keepassx
+    - keka
+    - launchbar
+    - libreoffice
+    - mumble
+    - omnifocus
+    - shiftit
+    - sourcetree
+    - teamviewer
+    - mactex
+    - virtualbox
+    - vagrant
+    - vlc
+    - wireshark
+    - x2goclient
+    - picasa
